@@ -1,4 +1,4 @@
-I'm a **QA Engineer** with a background in **Computer Science**. Currently, I’m studying **QA Automation** and improving my skills in software testing
+I'm a **QA Engineer** with a background in **Computer Science**. Currently, I’m studying **QA Automation** and improving my skills in software testing. Beyond software testing I enjoy programming and tinkering around technologies
 
 <a href="https://x.com/niccolosea">Twitter</a>/<a href="https://www.linkedin.com/in/nikoloz-gogrichiani-13444531a/">LinkedIn</a>
 
